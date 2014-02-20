@@ -1,0 +1,8 @@
+{
+  "name": "enyo-functionbind",
+  "description": "A function.bind() IE polyfill.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
